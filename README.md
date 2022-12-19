@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter, or skyfecta@gmail.com
 - 😄 Pronouns: She/Her
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyfectaGameDev&show_icons=true&theme=radical)"/> <img src="https://github-readme-stats.vercel.app/api?username=SkyfectaGameDev&show_icons=true&theme=radical)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyfectaGameDev&show_icons=true&theme=radical"/> <img src="https://github-readme-stats.vercel.app/api?username=SkyfectaGameDev&show_icons=true&theme=radical"/>
