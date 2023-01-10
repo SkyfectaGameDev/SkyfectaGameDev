@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on 2 of my own indie games!
-- 🌱 I’m currently learning Python, HTML & CSS
+- 🌱 I’m currently learning Python, HTML, CSS & C!
 - 📫 How to reach me: Twitter, or skyfecta@gmail.com
 - 😄 Pronouns: She/Her
 
