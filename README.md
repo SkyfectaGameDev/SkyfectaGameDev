@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 2 of my own indie games!
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS & C!
-- 📫 How to reach me: skyfecta@gmail.com or Twitter DMs.
+- 📫 How to reach me: skyfecta@gmail.com, Twitter or LinkedIn.
 - 😄 Pronouns: She/Her
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyfectaGameDev&show_icons=true&hide=shaderlab&theme=radical"/> <img src="https://github-readme-stats.vercel.app/api?username=SkyfectaGameDev&show_icons=true&theme=radical"/>
